@@ -20,4 +20,5 @@
   Tem de estar tudo decidido até dia 11 de Julho!
   * pineman: jogo ncurses ou qualquer coisa bué 1337 em assembly e C
   * tito: jogo mais ou menos simples em... sei lá eu... Java? C? Python? HTML, CSS e JS? com Node.JS?
+  * almiro: webapp em nodeJS com frontend whateverJS
   * grupo: 
