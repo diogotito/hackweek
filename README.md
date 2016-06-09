@@ -22,5 +22,5 @@
 qualquer coisa bué 1337 em assembly e C   
 ou instalar o gentoo.
   * tito: jogo mais ou menos simples em... sei lá eu... Java? C? Python? HTML, CSS e JS? com Node.JS?
-  * almiro: webapp em nodeJS com frontend [dogescript](https://dogescript.com/).
+  * almiro: jogo typerRace (Javascript e NodeJS [socket.io](http://socket.io/)) 
   * grupo: 
