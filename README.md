@@ -18,5 +18,9 @@
 ##Ideias para projetos individuais ou em grupo
   Adicionem ideias! Quando começarmos, cada projeto terá neste repo a sua pasta dedicada.
   Tem de estar tudo decidido até dia 11 de Julho!
-  * pineman: jogo ncurses ou qualquer coisa bué 1337 em assembly e C
+  * pineman: jogo ncurses (space invaders, dungeon crawler, ...),   
+qualquer coisa bué 1337 em assembly e C   
+ou instalar o gentoo.
+  * tito: jogo mais ou menos simples em... sei lá eu... Java? C? Python? HTML, CSS e JS? com Node.JS?
+  * almiro: jogo typerRace (Javascript e NodeJS [socket.io](http://socket.io/)) 
   * grupo: 
